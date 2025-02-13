@@ -1,8 +1,11 @@
-# React + Vite
+# Todos
+![image](https://github.com/user-attachments/assets/89aae860-e4b5-4c4c-a82e-64357aad0539)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Этот проект является Todo List. Каждая задача отображается в карточке, которая включает название задачи, дату и статус выполнения. При завершении задачи карточка меняет цвет, а кнопка "Done" становится недоступной.
 
-Currently, two official plugins are available:
+## Использрвала:
+- Ant Design (Card, Typography, Button)
+- JavaScript (ES6+) 
+- CSS (SCSS)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
