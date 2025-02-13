@@ -1,5 +1,8 @@
 # Todos
-![image](https://github.com/user-attachments/assets/89aae860-e4b5-4c4c-a82e-64357aad0539)
+//добавила измененние (added config provider для темы)
+![image](https://github.com/user-attachments/assets/41e8c1ec-9772-4c93-b9ed-7746da67fc7b)
+![image](https://github.com/user-attachments/assets/8f6ae936-cd38-4dc8-84dd-582ee548b609)
+
 
 Этот проект является Todo List. Каждая задача отображается в карточке, которая включает название задачи, дату и статус выполнения. При завершении задачи карточка меняет цвет, а кнопка "Done" становится недоступной.
 
